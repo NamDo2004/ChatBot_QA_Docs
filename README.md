@@ -55,3 +55,5 @@ This project develops a chatbot that answers questions based on provided documen
     cd src
     streamlit run app.py
     ```
+## Chatbot app
+![Image](https://github.com/user-attachments/assets/d62d81d1-5a5d-4d19-bb4e-392afc8a313c)
